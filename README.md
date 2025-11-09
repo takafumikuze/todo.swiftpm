@@ -1,2 +1,2 @@
-# todo
+# todo.swiftpm
 Originally todo application 
